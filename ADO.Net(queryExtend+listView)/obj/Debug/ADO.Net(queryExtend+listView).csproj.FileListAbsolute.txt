@@ -1,0 +1,9 @@
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\ADO.Net(queryExtend+listView)\ADO.Net(queryExtend+listView)\bin\Debug\ADO.Net(queryExtend+listView).exe.config
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\ADO.Net(queryExtend+listView)\ADO.Net(queryExtend+listView)\bin\Debug\ADO.Net(queryExtend+listView).exe
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\ADO.Net(queryExtend+listView)\ADO.Net(queryExtend+listView)\bin\Debug\ADO.Net(queryExtend+listView).pdb
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\ADO.Net(queryExtend+listView)\ADO.Net(queryExtend+listView)\obj\Debug\ADO.Net(queryExtend+listView).csprojResolveAssemblyReference.cache
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\ADO.Net(queryExtend+listView)\ADO.Net(queryExtend+listView)\obj\Debug\ADO.Net_queryExtend_listView_.Form1.resources
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\ADO.Net(queryExtend+listView)\ADO.Net(queryExtend+listView)\obj\Debug\ADO.Net_queryExtend_listView_.Properties.Resources.resources
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\ADO.Net(queryExtend+listView)\ADO.Net(queryExtend+listView)\obj\Debug\ADO.Net(queryExtend+listView).csproj.GenerateResource.Cache
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\ADO.Net(queryExtend+listView)\ADO.Net(queryExtend+listView)\obj\Debug\ADO.Net(queryExtend+listView).exe
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\ADO.Net(queryExtend+listView)\ADO.Net(queryExtend+listView)\obj\Debug\ADO.Net(queryExtend+listView).pdb
